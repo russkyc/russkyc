@@ -23,7 +23,7 @@ Applications
 >[C#] JConvert - Intellij/Netbeans project converter   
 
 Templates
->[[C#] WPF MVVM Template](https://github.com/russkyc/WPF-MVVM-Starter-Project)(*released*) - Starter project implementing the MVVM Architecture
+>[[C#] WPF MVVM Template](https://github.com/russkyc/WPF-MVVM-Starter-Project) (*released*) - Starter project implementing the MVVM Architecture
 
 Packages
 >Coming Soon..
