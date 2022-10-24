@@ -1,6 +1,6 @@
 ## **👋 Hi, I'm Russell!**
 
-> I am taking a Bachelor's Degree in Information Technology while working freelance as a Brand and UX designer at 99Designs. I started with front-end and back-end web development and has since expanded to native app development with C#, WPF, and Xamarin, where most of my current projects are based on.
+> I am taking a Bachelor's Degree in Information Technology while working freelance as a Brand and UX designer at 99Designs. I started with front-end and back-end web development and has since expanded to native app development with C#, WPF, and Xamarin, where most of my projects are based on.
 ***
 ### **My Tech Stack**
 
