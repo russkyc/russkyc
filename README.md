@@ -23,7 +23,14 @@ Applications
 >[C#] JConvert - Intellij/Netbeans project converter   
 
 Templates
->[[C#] WPF MVVM Template](https://github.com/russkyc/WPF-MVVM-Starter-Project) (*released*) - Starter project implementing the MVVM Architecture
+>**[[C#] WPF MVVM Template](https://github.com/russkyc/WPF-MVVM-Starter-Project)** - Starter project implementing the MVVM Architecture
 
-Packages
->Coming Soon..
+***
+### **Packages**
+
+Nuget
+>**[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** - A Class library of FileStream helper methods.\
+>![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
+![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
+![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads)
+
