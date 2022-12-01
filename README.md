@@ -28,9 +28,8 @@ Templates
 ***
 ### **Packages**
 
-Nuget
->**[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** - A Class library of FileStream helper methods.\
->![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
+**[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** - A Class library of FileStream helper methods.\
+![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
 ![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
 ![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads)
 
