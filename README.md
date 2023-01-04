@@ -32,3 +32,9 @@ Templates
 ![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
 ![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads)
 
+***
+### **Github Stats**
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russkyc&card_width=350&count_private=true&show_icons=true&hide_rank=true&locale=en&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da" alt="russkyc" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russkyc&hide=java&layout=compact&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da"></p>
+
