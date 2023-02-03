@@ -14,25 +14,18 @@ Other Tools
 >![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white&color=1f72de) ![Affinity Designer](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white&color=1f72de) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&color=1f72de) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=white&color=1f72de)
 
 ***
-### **Projects**
-
-Applications
->[C#] Wavefire - Presenter software based on C# and WPF   
->[C#] Codewize - Code/Syntax generator for Java/Python/C#   
->[C#] JConvert - Intellij/Netbeans project converter   
+### **Packages**
+Toolkits
+>**[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** - A Class library of FileStream helper methods.\
+>![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
+>![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
+>![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads)
 
 Templates
->**[[C#] WPF MVVM Template](https://github.com/russkyc/WPF-MVVM-Starter-Project)** - Starter Template implementing the MVVM Design Pattern\
->**[[C#] WPF MVVM (Clean Architecture) Template](https://github.com/russkyc/WPF-MVVM-CleanArchitecture-Starter-Project)** - Starter Template implementing the MVVM Design Pattern and Clean Architecture
-
-***
-### **Packages**
-
-**[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** - A Class library of FileStream helper methods.\
-![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
-![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
-![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads)
-
+>**[[C#] Russkyc.Templates.WPF-MVVM](https://www.nuget.org/packages/Russkyc.Templates.WPF-MVVM/)** - A WPF MVVM Project Template with CommunityToolkit.Mvvm for Dotnet CLI, Visual Studio, and Rider.\
+>![Nuget](https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de)
+>![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
+>![Nuget](https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&label=Downloads)
 ***
 ### **Github Stats**
 
