@@ -18,13 +18,18 @@ Other Tools
 Toolkits
 >**[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** - A Class library of FileStream helper methods.\
 >![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
->![](https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET)
+>![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
 >![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads)
+
+>**[Russkyc.AttachedUtilities.ConsoleExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/)** - A Class library of Console helper methods.\
+>![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de)
+>![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
+>![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&label=Downloads)
 
 Templates
 >**[[C#] Russkyc.Templates.WPF-MVVM](https://www.nuget.org/packages/Russkyc.Templates.WPF-MVVM/)** - A WPF MVVM Project Template with CommunityToolkit.Mvvm for Dotnet CLI, Visual Studio, and Rider.\
 >![Nuget](https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de)
->![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)
+>![](https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET)
 >![Nuget](https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&label=Downloads)
 ***
 ### **Github Stats**
