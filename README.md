@@ -1,4 +1,4 @@
-## **👋 Hi, I'm Russell!**
+## **👋 Hi, I'm Russell!** ![](https://komarev.com/ghpvc/?username=russkyc&style=flat)
 
 >I'm lazy enough to work smarter
 ***
@@ -36,4 +36,3 @@ Templates
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russkyc&card_width=350&count_private=true&show_icons=true&hide_rank=true&locale=en&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da" alt="russkyc" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russkyc&layout=compact&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da"></p>
-
