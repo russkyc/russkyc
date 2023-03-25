@@ -49,8 +49,8 @@ Templates
 <br />
 <h3 align="center">Github Made Me Do This</h3>
 <br />
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russkyc&card_width=350&count_private=true&show_icons=true&locale=en&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da" alt="russkyc" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russkyc&exclude_repo=java-activities-collection&layout=compact&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da"></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russkyc&card_width=850&count_private=true&show_icons=true&locale=en&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da" alt="russkyc" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=russkyc&exclude_repo=java-activities-collection&layout=compact&card_width=850&bg_color=0d1117&border_color=2e79da&text_color=ffffff&title_color=ffffff&icon_color=2e79da"></p>
 
 <br />
 <br />
