@@ -44,6 +44,8 @@ Templates
 >![](https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET)
 >![Nuget](https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&label=Downloads)
 
+<br />
+
 ---
 
 <br />
