@@ -25,11 +25,40 @@
 
 <h3 align="center" style="margin: 50px;">Nuget Packages and Stuff</h3>
 
-| **Package**                                                                                                                          | **Description**                                                                                  | **Platform**                                                                    | **Version**                                                                                          | **Downloads**                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **[Russkyc.AttachedUtilities.FileStreamExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/)** | A Class library of FileStream helper methods.                                                    | ![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)                         | ![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de) | ![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&label=Downloads) |
-| **[Russkyc.AttachedUtilities.ConsoleExtensions](https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/)**       | A Class library of Console helper methods.                                                       | ![](https://img.shields.io/badge/DotNetCore-2.0-1f72de)                         | ![Nuget](https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de) | ![Nuget](https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&label=Downloads)    |
-| **[[C#] Russkyc.Templates.WPF-MVVM](https://www.nuget.org/packages/Russkyc.Templates.WPF-MVVM/)**                                    | A WPF MVVM Project Template with CommunityToolkit.Mvvm for Dotnet CLI, Visual Studio, and Rider. | ![](https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&label=NET) | ![Nuget](https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de)                     | ![Nuget](https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&label=Downloads)                     |
+<table>
+<thead>
+  <tr>
+    <th><strong>Nuget Package</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Platform</strong></th>
+    <th><strong>Version</strong></th>
+    <th><strong>Downloads</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/">Russkyc.AttachedUtilities.FileStreamExtensions</a></strong></td>
+    <td>A Class library of FileStream helper methods.</td>
+    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/">Russkyc.AttachedUtilities.ConsoleExtensions</a></strong></td>
+    <td>A Class library of Console helper methods.</td>
+    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.Templates.WPF-MVVM/">Russkyc.Templates.WPF-MVVM</a></strong></td>
+    <td>A WPF MVVM Project Template for Dotnet CLI, Visual Studio, and Rider.</td>
+    <td><img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&amp;label=NET" alt=".NET 6.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
