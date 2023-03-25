@@ -3,7 +3,7 @@
 ---
 <br />
 <h3 align="center">Languages, Applications, Databases, Design Things</h3>
-
+<br />
 <span align="center">
   
 *Languages I Use* \
