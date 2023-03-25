@@ -1,7 +1,7 @@
-## **👋 Hi, I'm Russell!** ![](https://komarev.com/ghpvc/?username=russkyc&style=flat)
+<img src="https://raw.githubusercontent.com/russkyc/russkyc/main/banner.svg" style="width: 100%;" />
 
->I'm lazy enough to work smarter
 ***
+
 ### **My Tech Stack**
 
 Currently working with:
