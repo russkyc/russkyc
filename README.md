@@ -19,8 +19,6 @@
 
 </span>
 
-<br />
-
 ---
 
 <h3 align="center" style="margin: 50px;">Nuget Packages and Stuff</h3>
