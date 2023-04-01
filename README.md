@@ -35,11 +35,11 @@
 </thead>
 <tbody>
   <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/">Russkyc.AttachedUtilities.FileStreamExtensions</a></strong></td>
-    <td>A Class library of FileStream helper methods.</td>
-    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.ModernControls.WPF/">Russkyc.ModernControls.WPF</a></strong></td>
+    <td>A modern highly customizable wpf control library</td>
+    <td><img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&amp;label=NET" alt=".NET 6.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.ModernControls.WPF?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.ModernControls.WPF?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
   </tr>
   <tr>
     <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/">Russkyc.AttachedUtilities.ConsoleExtensions</a></strong></td>
@@ -47,6 +47,13 @@
     <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
     <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
     <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/">Russkyc.AttachedUtilities.FileStreamExtensions</a></strong></td>
+    <td>A Class library of FileStream helper methods.</td>
+    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
   </tr>
   <tr>
     <td><strong><a href="https://www.nuget.org/packages/Russkyc.Templates.WPF-MVVM/">Russkyc.Templates.WPF-MVVM</a></strong></td>
