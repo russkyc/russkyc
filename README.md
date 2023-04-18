@@ -67,7 +67,7 @@
 
 ---
 
-<h3 align="center" style="margin: 50px;">Small Projects I Made For Fun!</h3>
+<h3 align="center" style="margin: 50px;">Small Projects I Made For Fun</h3>
 
 <div align="center">
   <table style="width: 100%;">
