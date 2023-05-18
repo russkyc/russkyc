@@ -80,6 +80,11 @@
 </thead>
 <tbody>
   <tr>
+    <td><strong><a href="https://github.com/russkyc/fossa-ai-releases/">Fossa AI</a></strong></td>
+    <td>An offline AI assistant powered by LLaMA</td>
+    <td><a href="https://github.com/russkyc/fossa-ai-releases/releases/">Release Page</a></td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/russkyc/guess-io/">Guess.io</a></strong></td>
     <td>A minimal word guessing game made with WPF</td>
     <td><a href="https://github.com/russkyc/guess-io/releases/">Release Page</a></td>
