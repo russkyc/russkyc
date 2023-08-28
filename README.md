@@ -42,13 +42,6 @@
     <td><img src="https://img.shields.io/nuget/dt/Russkyc.ModernControls.WPF?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/">Russkyc.AttachedUtilities.ConsoleExtensions</a></strong></td>
-    <td>A Class library of Console helper methods.</td>
-    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
-  </tr>
-  <tr>
     <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/">Russkyc.AttachedUtilities.FileStreamExtensions</a></strong></td>
     <td>A Class library of FileStream helper methods.</td>
     <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
@@ -61,6 +54,20 @@
     <td><img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&amp;label=NET" alt=".NET 6.0"></td>
     <td><img src="https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de" alt="Nuget"></td>
     <td><img src="https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.DependencyInjection/">Russkyc.DependencyInjection</a></strong></td>
+    <td>A minimal dependency injection container.</td>
+    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.DependencyInjection?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.DependencyInjection?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/">Russkyc.AttachedUtilities.ConsoleExtensions</a></strong></td>
+    <td>A Class library of Console helper methods.</td>
+    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
+    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
+    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
   </tr>
 </tbody>
 </table>
