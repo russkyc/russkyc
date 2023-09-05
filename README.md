@@ -74,7 +74,7 @@
 
 ---
 
-<h3 align="center" style="margin: 50px;">Small Projects I Made For Fun</h3>
+<h3 align="center" style="margin: 50px;">Some of the Projects I've Made</h3>
 
 <div align="center">
   <table style="width: 100%;">
@@ -86,6 +86,11 @@
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td><strong><a href="https://github.com/russkyc/groomwise/">GroomWise</a></strong></td>
+    <td>A Pet Grooming CRM</td>
+    <td><a href="https://github.com/russkyc/groomwise/">Repository Page</a></td>
+  </tr>
   <tr>
     <td><strong><a href="https://github.com/russkyc/fossa-ai-releases/">Fossa AI</a></strong></td>
     <td>An offline AI assistant powered by LLaMA</td>
