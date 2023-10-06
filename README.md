@@ -101,6 +101,11 @@
     <td>A minimal word guessing game made with WPF</td>
     <td><a href="https://github.com/russkyc/guess-io/releases/">Release Page</a></td>
   </tr>
+  <tr>
+    <td><strong><a href="https://github.com/russkyc/blazor-tasker">Blazor Tasker</a></strong></td>
+    <td>A simple todo list app</td>
+    <td><a href="https://blazor-tasker.netlify.app">Visit Website</a></td>
+  </tr>
 </tbody>
 </table>
 </div>
