@@ -21,90 +21,103 @@
 
 ---
 
-<h3 align="center" style="margin: 50px;">Nuget Packages and Stuff</h3>
-
-<table>
-<thead>
-  <tr>
-    <th><strong>Nuget Package</strong></th>
-    <th><strong>Description</strong></th>
-    <th><strong>Platform</strong></th>
-    <th><strong>Version</strong></th>
-    <th><strong>Downloads</strong></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.ModernControls.WPF/">Russkyc.ModernControls.WPF</a></strong></td>
-    <td>A modern highly customizable wpf control library</td>
-    <td><img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&amp;label=NET" alt=".NET 6.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.ModernControls.WPF?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.ModernControls.WPF?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.FileStreamExtensions/">Russkyc.AttachedUtilities.FileStreamExtensions</a></strong></td>
-    <td>A Class library of FileStream helper methods.</td>
-    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.Templates.WPF-MVVM/">Russkyc.Templates.WPF-MVVM</a></strong></td>
-    <td>A WPF MVVM Project Template for Dotnet CLI, Visual Studio, and Rider.</td>
-    <td><img src="https://img.shields.io/badge/-.NET%206.0-blueviolet?color=1f72de&amp;label=NET" alt=".NET 6.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.Templates.WPF-MVVM?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.Templates.WPF-MVVM?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.DependencyInjection/">Russkyc.DependencyInjection</a></strong></td>
-    <td>A minimal dependency injection container.</td>
-    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.DependencyInjection?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.DependencyInjection?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.ConsoleExtensions/">Russkyc.AttachedUtilities.ConsoleExtensions</a></strong></td>
-    <td>A Class library of Console helper methods.</td>
-    <td><img src="https://img.shields.io/badge/DotNetCore-2.0-1f72de" alt=".NET Core 2.0"></td>
-    <td><img src="https://img.shields.io/nuget/v/Russkyc.AttachedUtilities.FileStreamExtensions?color=1f72de" alt="Nuget"></td>
-    <td><img src="https://img.shields.io/nuget/dt/Russkyc.AttachedUtilities.ConsoleExtensions?color=1f72de&amp;label=Downloads" alt="Nuget Downloads"></td>
-  </tr>
-</tbody>
-</table>
-
----
-
-<h3 align="center" style="margin: 50px;">Some of the Projects I've Made</h3>
+<h3 align="center" style="margin: 50px;">Some of my Projects</h3>
 
 <div align="center">
   <table style="width: 100%;">
 <thead>
   <tr>
-    <th><strong>App Name</strong></th>
+    <th><strong>Project</strong></th>
     <th><strong>Description</strong></th>
-    <th><strong>Link</strong></th>
+    <th><strong>Tech Stack</strong></th>
+    <th><strong>Information</strong></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><strong><a href="https://github.com/russkyc/groomwise/">GroomWise</a></strong></td>
-    <td>A Pet Grooming CRM</td>
-    <td><a href="https://github.com/russkyc/groomwise/">Repository Page</a></td>
+    <td><a href="https://github.com/russkyc/groomwise/">
+      <img src="https://raw.githubusercontent.com/russkyc/groomwise/master/Images/groomwise-banner.svg"/>
+    </a></td>
+    <td>Groomwise is an open source Pet-Grooming CRM with a clean modern design and customizations</td>
+    <td>C#, WPF, LiteDB, Russkyc.ModernControls.WPF for UI</td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/russkyc/groomwise/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Repository-2e78da">
+        </a>
+        <a href="https://github.com/russkyc/groomwise/releases">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Download-2e78da">
+        </a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/russkyc/fossa-ai-releases/">Fossa AI</a></strong></td>
-    <td>An offline AI assistant powered by LLaMA</td>
-    <td><a href="https://github.com/russkyc/fossa-ai-releases/releases/">Release Page</a></td>
+    <td><a href="https://github.com/russkyc/nitefox/">
+      <img src="https://raw.githubusercontent.com/russkyc/nitefox/master/.github/resources/nitefox-banner.svg"/>
+    </a></td>
+    <td>A no nonesense open source spotify downloader that also supports albums and playlist downloads</td>
+    <td>C#, Photino(cross-platform), Blazor, Mudblazor+Tailwind for UI</td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/russkyc/nitefox/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Repository-2e78da">
+        </a>
+        <a href="https://github.com/russkyc/nitefox/releases/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Download-2e78da">
+        </a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/russkyc/guess-io/">Guess.io</a></strong></td>
-    <td>A minimal word guessing game made with WPF</td>
-    <td><a href="https://github.com/russkyc/guess-io/releases/">Release Page</a></td>
+    <td><a href="https://github.com/russkyc/blazor-tasker">
+      <img src="https://raw.githubusercontent.com/russkyc/blazor-tasker/master/wwwroot/resources/banner.svg"/>
+    </a></td>
+    <td>A very simple todo list app</td>
+    <td>C#, Blazor(Wasm), Mudblazor for UI</td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/russkyc/blazor-tasker/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Repository-2e78da">
+        </a>
+        <a href="https://blazor-tasker.netlify.app">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Website-2e78da">
+        </a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/russkyc/blazor-tasker">Blazor Tasker</a></strong></td>
-    <td>A simple todo list app</td>
-    <td><a href="https://blazor-tasker.netlify.app">Visit Website</a></td>
+    <td><a href="https://github.com/russkyc/heroicons-avalonia">
+      <img src="https://raw.githubusercontent.com/russkyc/heroicons-avalonia/master/.github/resources/images/banner.svg"/>
+    </a></td>
+    <td>Beautiful handcrafted icons from the makers of Tailwind CSS ported to AvaloniaUI</td>
+    <td>C#, AvaloniaUI</td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/russkyc/heroicons-avalonia/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Repository-2e78da">
+        </a>
+        <a href="https://www.nuget.org/packages/HeroIcons.Avalonia">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Nuget-2e78da">
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/russkyc/github-release-downloader">
+      <img src="https://raw.githubusercontent.com/russkyc/github-release-downloader/master/.github/resources/images/github-release-downloader.png"/>
+    </a></td>
+    <td>A .NET library for interacting and downloading with github releases and assets</td>
+    <td>C#</td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/russkyc/github-release-downloader/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Repository-2e78da">
+        </a>
+        <a href="https://www.nuget.org/packages/GithubReleaseDownloader">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Nuget-2e78da">
+        </a>
+      </div>
+    </td>
   </tr>
 </tbody>
 </table>
