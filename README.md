@@ -119,6 +119,23 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/russkyc/paymongo-sharp">
+      <img src="https://raw.githubusercontent.com/russkyc/paymongo-sharp/master/.github/resources/images/banner.svg"/>
+    </a></td>
+    <td>An unofficial C# client wrapper for the Paymongo API</td>
+    <td>C#</td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/russkyc/paymongo-sharp/">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Repository-2e78da">
+        </a>
+        <a href="https://www.nuget.org/packages/Paymongo.Sharp">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Nuget-2e78da">
+        </a>
+      </div>
+    </td>
+  </tr>
 </tbody>
 </table>
 </div>
